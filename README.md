@@ -48,10 +48,10 @@ La instalación automatizada es realizara mediante clonación desde GitHub,
 ### Breve manual de usuario
 Para explicar las funcionalidades del sistema.
 Ver los 4 videos
-![](https://youtu.be/WqmkXLD2AXo)
-![](https://youtu.be/TaOUi0BDeaM)
-![](https://youtu.be/UBZlf73rt54)
-![](https://youtu.be/PhIpXGiPsAY)
+-Video 1: [https://youtu.be/WqmkXLD2AXo](https://youtu.be/WqmkXLD2AXo)
+-Video 2: [https://youtu.be/TaOUi0BDeaM](https://youtu.be/TaOUi0BDeaM)
+-Video 3: [https://youtu.be/UBZlf73rt54](https://youtu.be/UBZlf73rt54)
+-Video 4: [https://youtu.be/PhIpXGiPsAY](https://youtu.be/PhIpXGiPsAY)
 
 ## Generando servicios REST con el IDE
 
