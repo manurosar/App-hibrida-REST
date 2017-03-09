@@ -48,7 +48,7 @@ La instalación automatizada es realizara mediante clonación desde GitHub,
 ### Breve manual de usuario
 Para explicar las funcionalidades del sistema.
 Ver los 4 videos
-https://youtu.be/WqmkXLD2AXo
+!(https://youtu.be/WqmkXLD2AXo)
 https://youtu.be/TaOUi0BDeaM
 https://youtu.be/UBZlf73rt54
 https://youtu.be/PhIpXGiPsAY
